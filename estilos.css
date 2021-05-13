@@ -8,3 +8,16 @@ h1{
     text-align: center;
     font-size: 24px;
 }
+
+p{
+    text-align: center;
+    font-size: 15px;
+}
+
+.Box-for-principal{
+    border: 4px black solid;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 15px;
+    background-color: cornflowerblue;
+}
