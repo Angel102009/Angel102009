@@ -7,11 +7,13 @@
 h1{
     text-align: center;
     font-size: 24px;
+    font-family: monospace;
 }
 
 p{
     text-align: center;
     font-size: 15px;
+    font-family: sans-serif;
 }
 
 .Box-for-principal{
@@ -24,8 +26,9 @@ p{
 .Box-for-menu{
     border: 2px black solid;
     border-radius: 1px;
-    width: 150px;
-    height: 40px;
+    display: inline-block;
+    width: 250px;
+    height: 57px;
     background-color: darkred;
 }
 
@@ -35,4 +38,13 @@ p{
 
 li:hover{
 color: darkviolet;
+}
+
+.Box-for-information{
+    border: 4px black solid;
+    border-radius: 3px;
+    display: inline-block;
+    width: 400px;
+    height: auto;
+    background-color: dimgray;
 }
