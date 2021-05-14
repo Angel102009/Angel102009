@@ -20,3 +20,18 @@ p{
     display: inline-block;
     background-color: cornflowerblue;
 }
+
+.Box-for-menu{
+    border: 2px black solid;
+    border-radius: 1px;
+    display: inline-block;
+    background-color: darkred;
+}
+
+.Box-for-li{
+    text-align: center;
+}
+
+li:hover{
+color: darkviolet;
+}
