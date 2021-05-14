@@ -25,12 +25,11 @@ p{
     border: 2px black solid;
     border-radius: 1px;
     width: 150px;
-    height: 30px;
+    height: 40px;
     background-color: darkred;
 }
 
 .Box-for-li{
-    text-align: center;
     display: inline-block;
 }
 
