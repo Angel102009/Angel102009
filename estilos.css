@@ -24,12 +24,14 @@ p{
 .Box-for-menu{
     border: 2px black solid;
     border-radius: 1px;
-    display: inline-block;
+    width: 150px;
+    height: 30px;
     background-color: darkred;
 }
 
 .Box-for-li{
     text-align: center;
+    display: inline-block;
 }
 
 li:hover{
